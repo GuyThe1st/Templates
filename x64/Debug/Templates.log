@@ -1,0 +1,24 @@
+﻿  Templates.cpp
+C:\Users\rchir\OneDrive\Documents\SINCLAIR\C++\Assigments\Templates\Templates.cpp(8,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\rchir\OneDrive\Documents\SINCLAIR\C++\Assigments\Templates\Templates.cpp(11,7): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\rchir\OneDrive\Documents\SINCLAIR\C++\Assigments\Templates\Templates.cpp(9,16): warning C4244: 'return': conversion from 'double' to 'Num', possible loss of data
+          with
+          [
+              Num=float
+          ]
+C:\Users\rchir\OneDrive\Documents\SINCLAIR\C++\Assigments\Templates\Templates.cpp(22): message : see reference to function template instantiation 'Num half<float>(Num)' being compiled
+          with
+          [
+              Num=float
+          ]
+C:\Users\rchir\OneDrive\Documents\SINCLAIR\C++\Assigments\Templates\Templates.cpp(12,15): warning C4244: 'return': conversion from 'double' to 'Num', possible loss of data
+          with
+          [
+              Num=int
+          ]
+C:\Users\rchir\OneDrive\Documents\SINCLAIR\C++\Assigments\Templates\Templates.cpp(23): message : see reference to function template instantiation 'Num half<int>(Num)' being compiled
+          with
+          [
+              Num=int
+          ]
+  Templates.vcxproj -> C:\Users\rchir\OneDrive\Documents\SINCLAIR\C++\Assigments\Templates\x64\Debug\Templates.exe
